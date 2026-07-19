@@ -47,7 +47,8 @@ weight = 2
   postsOnHomePage = 5
   showProjectsList = false
   projectsUrl = "https://github.com/EsnBl0ckdev"
-  dateFormat = "2006年1月2日"
+
+ dateFormat = "2006年1月2日"
 
 [[params.social]]
   name = "github"
